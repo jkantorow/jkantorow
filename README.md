@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @jkantorow !
-- 👀 I’m interested in biomolecular modeling, bioinformatics and multiomics, applying machine learning to glycoprotein interaction, and modifying old videogame consoles!
-- 🌱 I’m currently learning biopython, MDTraj, pymol and many other molecular dynamics packages in python for glycoprotein modeling, tcl scripting for VMD, batch scripting pipelines for trajectory analysis, and more!
-- 💞️ I’m looking to collaborate on univeristy and professionally sponsored computational research in the field of computational chemistry, chemical engineering, and biophysics.
-- 📫 How to reach me:
--     email: kantorow.j@northeastern.edu
--     LinkedIn: https://www.linkedin.com/in/jason-kantorow-b311631a0/
+Hey, I'm Jason!
+
+## About me:
+
+- 2nd year PhD student at Northeastern University department of chemical engineering; SimBioSys lab
+- Interested in using high-performance computing for simulation of drug delivery platforms and other biomolecular systems
+- Love learning about custom firmware/hardware mods for old video game consoles!
+
+## Skills in Progress:
+
+- Languages: Python, R, MATLAB, Shell Script
+- Software: VS Code, Linux, VMD, PyMOL, GROMACS, Modeller, AllosMod
+- Molecular Dynamics (MD) simulation
+- Machine Learning
+- High-performance computing
+- Misc: SOLIDWORKS, ANSYS Fluent, Aspen HYSYS, ChimeraX, CCRB MGLTools
+
+## Reach out!
+
+- email: kantorow.j@northeastern.edu
+- LinkedIn: https://www.linkedin.com/in/jason-kantorow-b311631a0/
+- Lab website: https://sites.google.com/view/simbiosyslab
 
 <!---
 jkantorow/jkantorow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
