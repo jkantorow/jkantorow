@@ -2,7 +2,7 @@ Hey, I'm Jason!
 
 ## About me:
 
-- 3nd year PhD candidate at Northeastern University department of chemical engineering; SimBioSys lab
+- 3rd year PhD candidate at Northeastern University department of chemical engineering; SimBioSys lab
 - Interested in rational and data-informed drug delivery system (DDS) design using high-throughput computational simulation methods
 
 ## Projects:
