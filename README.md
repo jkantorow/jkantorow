@@ -2,24 +2,29 @@ Hey, I'm Jason!
 
 ## About me:
 
-- 2nd year PhD student at Northeastern University department of chemical engineering; SimBioSys lab
-- Interested in using high-performance computing for simulation of drug delivery platforms and other biomolecular systems
-- Love learning about custom firmware/hardware mods for old video game consoles!
+- 3nd year PhD candidate at Northeastern University department of chemical engineering; SimBioSys lab
+- Interested in rational and data-informed drug delivery system (DDS) design using high-throughput computational simulation methods
 
-## Skills in Progress:
+## Projects:
+
+- Glycan-Peptide Copolymers as a Chimeric, Combinatoric Drug Delivery Vehicle Towards a Cure for Cystic Fibrosis
+- An Algorithm for the Detection and Correction of Buried Glycan Structures Toward Improved in Silico Viral Immunogen Design
+
+## Tools of the Trade:
 
 - Languages: Python, R, MATLAB, Shell Script
-- Software: VS Code, Linux, VMD, PyMOL, GROMACS, Modeller, AllosMod
-- Molecular Dynamics (MD) simulation
-- Machine Learning
+- Molecular Docking: RosettaDock, RosettaLigand, Schrodinger Glide
+- Molecular Dynamics (MD): CHARMM GUI, AMBER, GROMACS, Martini
+- Visualization: VMD, PyMOL, UCSF ChimeraX
+- ML/AI Algorithms: Convoluted Neural Net, Genetic Algorithm, Variational Autoencoder
 - High-performance computing
-- Misc: SOLIDWORKS, ANSYS Fluent, Aspen HYSYS, ChimeraX, CCRB MGLTools
+- Misc: VSCode, SOLIDWORKS, ANSYS Fluent, Aspen HYSYS
 
 ## Reach out!
 
 - email: kantorow.j@northeastern.edu
 - LinkedIn: https://www.linkedin.com/in/jason-kantorow-b311631a0/
-- Lab website: https://sites.google.com/view/simbiosyslab
+- Lab website: https://www.simbiosyslab.com/
 
 <!---
 jkantorow/jkantorow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
